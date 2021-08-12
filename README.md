@@ -22,10 +22,6 @@ npm install
 npm run build
 ```
 
-## Authors
-
-[vikmeup](https://github.com/xd-shadow)  
-
 ## License
 
 ONTOWeb3Provider is available under the MIT license. See the LICENSE file for more info.
